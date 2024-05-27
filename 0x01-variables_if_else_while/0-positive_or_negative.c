@@ -2,7 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 
-/* main - is the input number positive or negative
+/**
+ * main - is the input number positive or negative
  * Return: always (0)
  */
 
